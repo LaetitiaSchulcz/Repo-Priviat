@@ -1,0 +1,86 @@
+
+
+Partir sur 6 sur xpcb5 ------------------------------------------ DONE
+Inverser les vecteurs ------------------------------------------- DONE
+
+	Sur xpd_g1 : un seul signe à inverser, le PC3 1970-1990
+	Sur xpd_g2, je propose d’inverser PC3 2000, PC5 2000, PC6 2000
+
+Export excel xpcb4 | xpcb5 (pour vérifier les tfts) ------------- DONE
+
+Vérifier le 2e graph -------------------------------------------- DONE
+
+Sur le fuzzy: lorsqu'on ajoute les données sur 1970-1990, on a une troisième phase qui émerge. On va tester sur 1970-2000 sur les deux.
+Bref: toutes les analyses sont à faire sur cette période à partir de là. Sur le fuzzy: récupérer 3 phases/ 4 phases sur 1970-2000----- DONE
+
+	Sur le dataset g1 puis le dataset g2
+	Avec fuzzifier = 2 
+	Pour 3 phases puis 4 phases
+	Récupérer les centers
+	Récupérer les labels
+	Récupérer les distances
+
+
+Servira comme point de comparaison (pour GMM).
+· On visualise les collines (sur gmm avec 3 phases
+· Sur GMM: récup les moyennes, les variances pour KDE - et plotter pour voir les collines; nombre de phases = ? | Exporter les paramètres des kde (µ et var) sur tous les tests partant de 4 à 8 |
+· Covariance: full to be kept
+
+
+
+_______
+Macro: judiciary impeachment (procès au sénat) @Senate against trump starts next week + House will vote on sending articles of impeachment to the Senate today. Likely: rep owns the house, chief of staff mnuchin (secrétaire du trésor) has postponed disclosures til after the election, moscow mitch holds the senate = likely to have nothing happen. Note: currently, 53 reps out of 100 people - impeachment needs 2/3 of the senate. If impeached: destitution de l'accusé + interdiction de tenir tout poste officiel à l'avenir. 
+Trump Golf Count: 242 days since the inauguration - Cost to Taxpayer: about 121 Million. https://trumpgolfcount.com/
+
+Assouplissement de la trade war: la Chine a perdu son statut de "currency manipulator" / poussé le yen up | The US and China prepare to seal "phase one" trade deal 
+What is going to change: trade deal commits China to making $200bo in additional purchases of US goods, including farm products + other pledges on currency and intellectual property, in exchange for small rollback in tarrifs from Washington. What remains: tarrifs imposed on $360bo of Chinese products + few Chinese concessions on key aspect of the Chinese economic model (/use of subsidies, rampant cybertheft) 
+Why now: victory for Trump (elections) but might not be enough: "the president is settling for a weak, temporary deal that will cost American businesses, farmers and workers for the yers to come." Also dropped its designation of China as a currency manipulator.
+Sectors where they are clearly antagonistic: national security fears against Tencent, Alibaba, China Railway Rolling Stock Crop (in bid for $1bo contract with Washington DC subway).
+
+Environnement / Business
+High demand promps launch of Europe's first cannabis ETF: produc  launched by Canadian fund group Purpose Investments ('Medical Cannabis & Wellness ETF"). Fund will be listed in Germany and made available to investors in the UK, Italy and Ireland. Currency, largest ETF = ETFMG US-listd Alternative Harvest = 600Mo (lost 28% last year). Fund charges 80bps. Note: the UK dropped cannabis from its list of excluded investments in Oct 2018 (legalizing medicinal marijuana...) 
+
+ESG: BlackRock seeks to regain lost ground in climate fight. 
+- Recent years: head of BlackRock (Larry Fink, chief executive) has railed against short termism  + urged US company to rapatriate cash + warned businesses that they must contribute more to society. Last open letter (annual letter, this Tuesday): centered on climate change, saying BR is at the forefront of the fight + new measures (increasing nb of sustainability funds + being more transparent over engagement & voting). 2 internal control centers:
+- Sustainability Accounting Standards Board 
+- Task Force on Climate-related Financial Disclosures
+In the past: published a 2016 paper saying that "investors could no longer ignore climate change". 
+- Report by Majority Action last year: BR only respect 12% of climate change  resolutions + STEWARDSHIP team only discussed environmental issues with 300 cpies last year = 15% of businesses it deals with. 
+- Clients are protesting: Government Pension Investment Fund of Japan withdrew billions from BR last year as the world's biggest pension fund put environmental, social and governance concerns at the centers of its ethos. 
+- What are competitors doing: people saying they're doing ESGe = Columbia Threadneedle, Pimco, Shroders, Aviva, Axa Investment Managers... FT mentions BNP Pam for having ditched thermal coal.
+- Next step: will add thermal coal production to list of exclusions within the next 6 months (but only apply to 500Mo in holdings out of BR's 7tn - less than 1%). Note: depends on how the calculation is done - excluding cpies with >25% of rev from thermal coal | doesn't even cover  Glencore, BHP...
+- What's cool about it: BR is applying  standards set by the Sustainability Accounting Standards Board = makes sure there are standards that everyone agrees on and that can serve as benchmarks for comparison.
+
+	The Measures BR has pledged: 
+	- Integrate ESG into all active management decisions in 2020
+	- Divest from thermal coal (active mt)
+	- Publish details on sustainability profile of every mutual 		fund by end 2020 (incl. carbon footprint or data on 		controversial holdings) 
+	- Double nb of ESG ETFs to 150 by end 2021
+	- Expand the nb of low-carbon strats 
+	-  More stewardship
+	- Force ESG disclosures upon the cpies they're invested in
+
+ESG - Chinese Companies get to grips with tougher ESG disclosures: 
+Xi recently called for  the dev of "green finance" to draw more investment into the word's second largest economy. But: for now, most cpies say reports are a waste of time + standardisation is essential + the quality of info is uneven. In KH: first move last month =  started requiring that from july 2020 n, all exchange-listed cpies produce a statement setting out the board's consideration of ESG risk. Why it matters: it'll force executives to integrate the disclosures into their business strategies. SE in Shangaï/Schenzhen are expected to follow suit this year. Note: top 4 green bond issuers: France, Germany, US increasing, China. Measures: for now, reports are missing quantitative measures. Green bonds: Climate Bonds Initiative found out that only 40% of green bonds from Chinese issuers were in line with international norms on the use of the proceeds. Bryan Carter, ehad of emerging markets fixed income, said his firm considered half of green bonds issued from EM to be environmnetally friendly.
+
+TECH 
+Lire article 9 alinéa 1 du Code Civil : "chacun a droit au respect de sa vie privée... " | En France, Tribunal de Grande Instance de Paris: "toute personne dispose sur son image, partie intégrante de sa personnalité, d'un droit exclusif qui lui peermet de s'opposer à sa reproduction sans son autorisation expresse et spéciale" (TGI de Paris, septembre 2000). Puis,  Cousr d'appel de Paris (2008): "le droit à l'image doit céder devant la liberté d'expression chaque fois que l'exercice du premier aurait pour effet de faire arbitrairement obstacle à la liberté de recevoir ou de communiquer des idées qui s'expriment spécialement dans le travail d'un artiste." 
+
+
+
+https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
+http://www.astroml.org/book_figures/chapter4/fig_GMM_1D.html
+https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
+http://ethen8181.github.io/machine-learning/clustering/GMM/GMM.html
+https://stats.stackexchange.com/questions/387702/gaussian-mixture-is-this-plot-right
+https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html
+https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
+https://github.com/LaetitiaSchulcz/PCA/blob/master/xpd_g2.xlsx
+
+   
+
+
+
+
+
+
